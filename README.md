@@ -32,11 +32,11 @@ I only used 7 columns among 21 columns of original data.
 
 **SHOT_CLOCK : Remained shot clock (s)**
 
-**DRIBBLES : Numbers of Dribbles from catching the ball to shooting **
+**DRIBBLES : Numbers of Dribbles from catching the ball to shooting**
 
 **TOUCH_TIME : Touch time after catching the ball (s)**
 
-**SHOT_DIST : Distance of shot **
+**SHOT_DIST : Distance of shot**
 
 **CLOSE_DEF_DIST : Distance between shooter and closest defender**
 
